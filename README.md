@@ -3,7 +3,7 @@
 ## Paths
   - /dev_hdd0/game/NPEB01899/USRDIR/
   - /dev_hdd0/game/NPUB31419/USRDIR/
-  - -/dev_hdd0/game/NPJB00549/USRDIR/
+  - /dev_hdd0/game/NPJB00549/USRDIR/
 
 ## Explaination
 If you've a black screen when you start your Minecraft: PlayStation®3 Edition game, One of the solutions can be to replace the EBOOT.BIN file that is a debug Eboot by a Retail Eboot.bin file.

@@ -14,7 +14,7 @@ If you've a black screen when you start your Minecraft: PlayStation®3 Edition g
 2. Choose your transfer method
   - Go to your PS3, Lauch you File manager (like Multiman for exemple)
   - Go to your PS3, Open your FTP(File Transfert Portocol) port (21), Go back to your PC and lauch your FTP client (like FileZila Client for exemple)
-3. Copy and past the file into the folfer that corresponding with your Minecraft: PlayStation®3 Edition's region
+3. Copy and paste the file into the folder that corresponding with your Minecraft: PlayStation®3 Edition's region
 - /dev_hdd0/game/NPEB01899/USRDIR/ [for EU]
 - /dev_hdd0/game/NPUB31419/USRDIR/ [for US]
 - /dev_hdd0/game/NPJB00549/USRDIR/ [for JP]
